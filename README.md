@@ -1,8 +1,7 @@
 <h1 align="center">Hey Everyone 👋, vaibhavi sonawane</h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
-</div>
+  <img width="1774" height="887" alt="ChatGPT Image Jun 1, 2026 at 11_27_41 AM" src="https://github.com/user-attachments/assets/bfc0abf3-3baf-40d6-8f18-a3289ea0d42e" />
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
 
