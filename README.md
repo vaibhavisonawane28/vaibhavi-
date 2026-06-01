@@ -5,9 +5,7 @@
  
   <h3 align="center">DevOps Engineer | AWS Cloud | Kubernetes | CI/CD</h3>
 
-<div align="center">
-  <img src="./Banner.png" alt="Vaibhavi Sonawane Banner">
-</div>
+
 
 <br>
 
@@ -48,22 +46,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href=https://www.linkedin.com/in/vaibhavi-sonawane28/>
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="YOUR_GITHUB_URL">
@@ -73,6 +59,6 @@
 
 ---
 
-### ✨ Motto
+
 
 > Building Scalable Cloud Infrastructure & Automation
