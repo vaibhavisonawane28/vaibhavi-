@@ -52,9 +52,10 @@
 <a href=https://www.linkedin.com/in/vaibhavi-sonawane28/>
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="YOUR_GITHUB_URL">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<p align="left">
+  <a href="mailto:vaibhavisonwane.office@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-vaibhavisonwane.office@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
